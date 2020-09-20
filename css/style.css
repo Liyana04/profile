@@ -344,7 +344,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.png) no-repeat top center;
+  background: url(../img/banner/home-banner3.png) no-repeat top center;
   background-position: center;
   background-size: cover; }
   .home_banner_area .banner_inner {
@@ -2431,7 +2431,7 @@ h6 {
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
-/* Start About Us Area css
+/* Start About Me Area css
 ============================================================================================ */
 .about_area {
   position: relative; }
@@ -2454,7 +2454,7 @@ h6 {
       .about_area .about_img {
         display: none; } }
 
-/* End About Us Area css
+/* End About Me Area css
 ============================================================================================ */
 /* Start Barand Area css
 ============================================================================================ */
